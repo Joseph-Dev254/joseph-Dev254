@@ -1,16 +1,17 @@
-## Hi there 👋
+# About Me
+Hi, I'm Joseph Njoroge, I'm learning to build practical software, AI, and automation solutions for businesses.
 
-<!--
-**Joseph-Dev254/joseph-Dev254** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Currently learning
+-HTML & CSS
+-Javascript
+-Git & Github
+-Python
+-SQL
+-APIs
+-AI & automations
 
-Here are some ideas to get you started:
+## My Goal
+To become a **GTM engineer** who combines sales, technology, and AI to build practical solutions that help businesses improve their sales and operations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm Building
+I'M learning by building practical projects and exploring how technology and AI can solve real-world business problems.
